@@ -7,3 +7,8 @@ lalala
 \* test gwiazki
 
 test dziwnego znaku ÂŽ
+ble* ble ble ble* ble ble
+
+
+*ble ble
+
